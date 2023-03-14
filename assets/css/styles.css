@@ -186,6 +186,9 @@
    border: 0.1rem solid var(--primary-color);
  }
 
+  #introh2 {
+   font-size: 6rem;
+ }
  
 
  @media(max-width: 800px) {
@@ -200,7 +203,9 @@
       max-height: 100%;
 
    }
-
+  #introh2 {
+   font-size: 3.5rem;
+ }
 
 
    
